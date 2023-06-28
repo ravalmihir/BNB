@@ -2,7 +2,7 @@
 name: BNB
 about: create booking
 title: Enhacement
-labels: ''
+labels: 'bug'
 assignees: ''
 
 ---
